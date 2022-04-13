@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Demigod Duel logo.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Logo-anim_gif0000" x="0" y="0" width="1062" height="805"/>
+	<SubTexture name="Logo-anim_gif0001" x="1062" y="0" width="919" height="701" frameX="-72" frameY="-53" frameWidth="1062" frameHeight="805"/>
+	<SubTexture name="Logo-anim_gif0002" x="1062" y="0" width="919" height="701" frameX="-72" frameY="-53" frameWidth="1062" frameHeight="805"/>
+	<SubTexture name="Logo-anim_gif0003" x="0" y="805" width="898" height="688" frameX="-82" frameY="-58" frameWidth="1062" frameHeight="805"/>
+	<SubTexture name="Logo-anim_gif0004" x="0" y="805" width="898" height="688" frameX="-82" frameY="-58" frameWidth="1062" frameHeight="805"/>
+	<SubTexture name="Logo-anim_gif0005" x="898" y="805" width="881" height="672" frameX="-91" frameY="-66" frameWidth="1062" frameHeight="805"/>
+	<SubTexture name="Logo-anim_gif0006" x="898" y="805" width="881" height="672" frameX="-91" frameY="-66" frameWidth="1062" frameHeight="805"/>
+	<SubTexture name="Logo-anim_gif0007" x="898" y="805" width="881" height="672" frameX="-91" frameY="-66" frameWidth="1062" frameHeight="805"/>
+	<SubTexture name="Logo-anim_gif0008" x="898" y="805" width="881" height="672" frameX="-91" frameY="-66" frameWidth="1062" frameHeight="805"/>
+	<SubTexture name="Logo-anim_gif0009" x="898" y="805" width="881" height="672" frameX="-91" frameY="-66" frameWidth="1062" frameHeight="805"/>
+	<SubTexture name="Logo-anim_gif0010" x="898" y="805" width="881" height="672" frameX="-91" frameY="-66" frameWidth="1062" frameHeight="805"/>
+	<SubTexture name="Logo-anim_gif0011" x="898" y="805" width="881" height="672" frameX="-91" frameY="-66" frameWidth="1062" frameHeight="805"/>
+	<SubTexture name="Logo-anim_gif0012" x="898" y="805" width="881" height="672" frameX="-91" frameY="-66" frameWidth="1062" frameHeight="805"/>
+	<SubTexture name="Logo-anim_gif0013" x="898" y="805" width="881" height="672" frameX="-91" frameY="-66" frameWidth="1062" frameHeight="805"/>
+</TextureAtlas>

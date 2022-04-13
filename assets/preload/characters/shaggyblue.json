@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				163,
+				-112
+			],
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "shaggyblue_left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-141
+			],
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "shaggyblue_down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				24
+			],
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "shaggyblue_up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-40
+			],
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "shaggyblue_right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "shaggyblue_idle0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shaggyblue",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "shaggyblue",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		156,
+		255
+	],
+	"camera_position": [
+		-30,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shagweed.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="weed down0000" x="0" y="0" width="575" height="1039" frameX="0" frameY="-92" frameWidth="625" frameHeight="1131"/>
+	<SubTexture name="weed down0001" x="575" y="0" width="574" height="1054" frameX="0" frameY="-77" frameWidth="625" frameHeight="1131"/>
+	<SubTexture name="weed down0002" x="1149" y="0" width="606" height="1076" frameX="-19" frameY="-55" frameWidth="625" frameHeight="1131"/>
+	<SubTexture name="weed down0003" x="1755" y="0" width="594" height="1107" frameX="-31" frameY="-24" frameWidth="625" frameHeight="1131"/>
+	<SubTexture name="weed down0004" x="2349" y="0" width="594" height="1117" frameX="-31" frameY="-14" frameWidth="625" frameHeight="1131"/>
+	<SubTexture name="weed down0005" x="2943" y="0" width="594" height="1131" frameX="-31" frameY="0" frameWidth="625" frameHeight="1131"/>
+	<SubTexture name="weed idle0000" x="3537" y="0" width="765" height="1059" frameX="0" frameY="-31" frameWidth="765" frameHeight="1090"/>
+	<SubTexture name="weed idle0001" x="4302" y="0" width="712" height="1071" frameX="-15" frameY="-19" frameWidth="765" frameHeight="1090"/>
+	<SubTexture name="weed idle0002" x="5014" y="0" width="646" height="1083" frameX="-24" frameY="-7" frameWidth="765" frameHeight="1090"/>
+	<SubTexture name="weed idle0003" x="5660" y="0" width="588" height="1088" frameX="-32" frameY="-2" frameWidth="765" frameHeight="1090"/>
+	<SubTexture name="weed idle0004" x="6248" y="0" width="547" height="1090" frameX="-32" frameY="0" frameWidth="765" frameHeight="1090"/>
+	<SubTexture name="weed idle0005" x="6248" y="0" width="547" height="1090" frameX="-32" frameY="0" frameWidth="765" frameHeight="1090"/>
+	<SubTexture name="weed left0000" x="6795" y="0" width="626" height="1161" frameX="0" frameY="0" frameWidth="779" frameHeight="1161"/>
+	<SubTexture name="weed left0001" x="7421" y="0" width="659" height="1161" frameX="-33" frameY="0" frameWidth="779" frameHeight="1161"/>
+	<SubTexture name="weed left0002" x="0" y="1161" width="681" height="1161" frameX="-53" frameY="0" frameWidth="779" frameHeight="1161"/>
+	<SubTexture name="weed left0003" x="681" y="1161" width="677" height="1161" frameX="-71" frameY="0" frameWidth="779" frameHeight="1161"/>
+	<SubTexture name="weed left0004" x="1358" y="1161" width="677" height="1161" frameX="-84" frameY="0" frameWidth="779" frameHeight="1161"/>
+	<SubTexture name="weed left0005" x="2035" y="1161" width="680" height="1161" frameX="-99" frameY="0" frameWidth="779" frameHeight="1161"/>
+	<SubTexture name="weed right0000" x="2715" y="1161" width="794" height="1097"/>
+	<SubTexture name="weed right0001" x="3509" y="1161" width="758" height="1097" frameX="0" frameY="0" frameWidth="794" frameHeight="1097"/>
+	<SubTexture name="weed right0002" x="4267" y="1161" width="709" height="1097" frameX="0" frameY="0" frameWidth="794" frameHeight="1097"/>
+	<SubTexture name="weed right0003" x="4976" y="1161" width="676" height="1097" frameX="0" frameY="0" frameWidth="794" frameHeight="1097"/>
+	<SubTexture name="weed right0004" x="5652" y="1161" width="646" height="1097" frameX="0" frameY="0" frameWidth="794" frameHeight="1097"/>
+	<SubTexture name="weed right0005" x="6298" y="1161" width="549" height="1097" frameX="0" frameY="0" frameWidth="794" frameHeight="1097"/>
+	<SubTexture name="weed up0000" x="6847" y="1161" width="617" height="1174" frameX="-5" frameY="0" frameWidth="649" frameHeight="1174"/>
+	<SubTexture name="weed up0001" x="7464" y="1161" width="636" height="1147" frameX="-5" frameY="-27" frameWidth="649" frameHeight="1174"/>
+	<SubTexture name="weed up0002" x="0" y="2335" width="644" height="1112" frameX="-5" frameY="-62" frameWidth="649" frameHeight="1174"/>
+	<SubTexture name="weed up0003" x="644" y="2335" width="649" height="1095" frameX="0" frameY="-78" frameWidth="649" frameHeight="1174"/>
+	<SubTexture name="weed up0004" x="644" y="2335" width="649" height="1095" frameX="0" frameY="-78" frameWidth="649" frameHeight="1174"/>
+	<SubTexture name="weed up0005" x="644" y="2335" width="649" height="1095" frameX="0" frameY="-78" frameWidth="649" frameHeight="1174"/>
+</TextureAtlas>

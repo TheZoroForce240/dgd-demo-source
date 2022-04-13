@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Zephyrus.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="phantom_idle0000" x="0" y="0" width="720" height="806"/>
+	<SubTexture name="phantom_idle0001" x="720" y="0" width="720" height="806"/>
+	<SubTexture name="phantom_idle0002" x="1440" y="0" width="720" height="806"/>
+	<SubTexture name="phantom_idle0003" x="2160" y="0" width="720" height="806"/>
+	<SubTexture name="phantom_idle0004" x="2880" y="0" width="720" height="806"/>
+	<SubTexture name="phantom_idle0005" x="0" y="806" width="720" height="806"/>
+	<SubTexture name="phantom_idle0006" x="720" y="806" width="720" height="806"/>
+	<SubTexture name="phantom_idle0007" x="1440" y="806" width="720" height="806"/>
+	<SubTexture name="phantom_idle0008" x="2160" y="806" width="720" height="806"/>
+	<SubTexture name="phantom_idle0009" x="2880" y="806" width="720" height="806"/>
+	<SubTexture name="phantom_idle0010" x="0" y="1612" width="720" height="806"/>
+	<SubTexture name="phantom_idle0011" x="720" y="1612" width="720" height="806"/>
+	<SubTexture name="phantom_idle0012" x="1440" y="1612" width="720" height="806"/>
+	<SubTexture name="phantom_idle0013" x="2160" y="1612" width="720" height="806"/>
+	<SubTexture name="phantom_idle0014" x="2880" y="1612" width="720" height="806"/>
+	<SubTexture name="phantom_idle0015" x="0" y="2418" width="720" height="806"/>
+	<SubTexture name="phantom_idle0016" x="720" y="2418" width="720" height="806"/>
+	<SubTexture name="phantom_idle0017" x="1440" y="2418" width="720" height="806"/>
+</TextureAtlas>
